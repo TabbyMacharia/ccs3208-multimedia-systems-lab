@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbae4a61-f5d5-490d-bb5a-15dcac4d7912" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CCS3208-MULTIMEDIA-SYSTEMS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv311/Week2_Multimedia_Lab.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="dbae4a61-f5d5-490d-bb5a-15dcac4d7912" name="Changes" comment="Multimedia Systems labwork">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,12 +65,25 @@
       <option name="presentableId" value="Default" />
       <updated>1790694112280</updated>
       <workItem from="1790694113320" duration="4287000" />
-      <workItem from="1790698538731" duration="20562000" />
+      <workItem from="1790698538731" duration="21280000" />
     </task>
+    <task id="LOCAL-00001" summary="Multimedia Systems labwork">
+      <option name="closed" value="true" />
+      <created>1790723173883</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790723173883</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Multimedia Systems labwork" />
+    <option name="LAST_COMMIT_MESSAGE" value="Multimedia Systems labwork" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
